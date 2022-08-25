@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @claudio-fernando-ribeiro. - Hi, I’m @claudio-fernando-ribeiro
 - 👀 Tenho interesse de aprender sobre tudo que for possível. - I am interested in learning about everything possible.
-- 🌱 Atualmente estou aprendendo Java,Javascrip, HTML5, CSS3, Angular, Spring Boot, Bootstrap, SQL, entre outros. I’m currently learning Java,Javascrip, HTML5, CSS3< Angular, Spring Boot, Bootstrap, SQL.
+- 🌱 Atualmente estou aprendendo Java, Javascrip, HTML5, CSS3, Angular, Spring Boot, Bootstrap, SQL, entre outros. I’m currently learning Java,Javascrip, HTML5, CSS3,  Angular, Spring Boot, Bootstrap, SQL.
 - 💞️ Estou procurando colaborar em projetos de teor social. - I'm looking to collaborate on social projects.
 - 📫 How to reach me - email: claudiofernando1989@gmail.com
 
