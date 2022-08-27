@@ -4,6 +4,11 @@
 - 💞️ Estou procurando colaborar em projetos de teor social. - I'm looking to collaborate on social projects.
 - 📫 How to reach me - email: claudiofernando1989@gmail.com
 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatogroffe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatogroffe&layout=compact&langs_count=6&theme=algolia"/>
+</div>
+
 <!---
 claudio-fernando-ribeiro/claudio-fernando-ribeiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
