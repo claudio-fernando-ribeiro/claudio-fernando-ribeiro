@@ -5,6 +5,7 @@
 - 📫 How to reach me - email: claudiofernando1989@gmail.com
 
 <div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudio-fernando-ribeiro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudio-fernando-ribeiro&layout=compact&langs_count=6&theme=algolia"/>
 </div>
 
