@@ -1,14 +1,16 @@
-- 👋 Olá, eu sou @claudio-fernando-ribeiro. - Hi, I’m @claudio-fernando-ribeiro
-- 👀 Tenho interesse de aprender sobre tudo que for possível. - I am interested in learning about everything possible.
-- 🌱 Atualmente estou aprendendo Java, Javascrip, HTML5, CSS3, Angular, Spring Boot, Bootstrap, SQL, entre outros. I’m currently learning Java,Javascrip, HTML5, CSS3,  Angular, Spring Boot, Bootstrap, SQL.
-- 💞️ Estou procurando colaborar em projetos de teor social. - I'm looking to collaborate on social projects.
-- 📫 How to reach me - email: claudiofernando1989@gmail.com
+# 💫 About Me:
+👋 Olá, eu sou @claudio-fernando-ribeiro. - Hi, I’m @claudio-fernando-ribeiro<br>👀 Tenho interesse de aprender sobre tudo que for possível. - I am interested in learning about everything possible.<br>🌱 Atualmente estou aprendendo Java, Javascrip, HTML5, CSS3, Angular, Spring Boot, Bootstrap, SQL, entre outros. I’m currently learning Java,Javascrip, HTML5, CSS3, Angular, Spring Boot, Bootstrap, SQL.<br>💞️ Estou procurando colaborar em projetos de teor social. - I'm looking to collaborate on social projects.<br>📫 How to reach me - email: claudiofernando1989@gmail.com
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudio-fernando-ribeiro&layout=compact&langs_count=6&theme=algolia"/>
-</div>
 
-<!---
-claudio-fernando-ribeiro/claudio-fernando-ribeiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nando_1063) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/claudiofernandoribeiro/) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=claudio-fernando-ribeiro&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=claudio-fernando-ribeiro&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=claudio-fernando-ribeiro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=claudio-fernando-ribeiro&icon=0&color=0)](https://visitcount.itsvg.in)
